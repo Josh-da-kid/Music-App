@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: MyMusicApp
+    buildCommand: ""  
+    publishPath: Music-App/file.html
+
